@@ -1,0 +1,108 @@
+eQube MI :
+
+eQube - TM :  Transformation and Module
+
+eQube - BI :
+
+eQube - DP :
+
+ADA -> python scripts are supported.
+==============
+ - data is written in the form of objects
+ - maps. (consists of source and sink and nodes consists of logic)
+ - 
+ ========================
+ 
+ eQube MI :
+ - Migrate data from enterprise application to another.
+ - 
+
+
+===========================
+
+ BPM : (Business Process Modeling)
+ 
+ 
+Rectangle - activity
+circle  - event
+daimond - gateway 
+arrow  - execution path
+----------------
+
+System Entities :
+
+- Project : 
+
+- Process Pipeline :
+
+- API :  --- Rest, odata and soap
+
+- Map : 
+
+- Trigger configuration 
+
+
+=================================
+
+
+Create a project  ->  Create trigger configuration  -> Create a Process -> Configure the Process -> Test the process -> Execute the process -> 
+
+
+====================================
+
+MDA --> Map Driven Activity
+
+eQMBSE  -> Model Based System Engineering
+
+
+==============
+
+TM :
+-
+Map contains:
+source & dest
+attributes
+mappings
+relations or joins
+attribute transformations
+predicate, filter using variables
+
+===============
+
+Relations in map :
+
+Primary node and secondary node.
+
+
+Types of Relation:
+- Explicit Relation : based on attribute condition
+
+Predefined Relation: 
+  - predefined relations between two business objects.
+  - 
+  
+ Union relations 
+  - merge the records of the two nodes into asingle set.
+ 
+subtract Relation:
+  - subtract child records from the parent records.
+  
+User defined relations:
+ - customize the relationship between two entities
+ 
+
+===========================
+
+Map : Node types :
+
+- Default 
+- Implicit 
+- dependent
+
+Default : indicates a primary object
+           Example : Partmaster, documentmaster in plm
+
+Implicit : 
+
+  
+  
